@@ -1,0 +1,10 @@
+<book>
+  <frontmatter/>
+  <chapter name="Introduction">
+    <para>Here is the intro</para>
+    <para>Another paragraph</para>
+  </chapter>
+  <chapter name="Conclusion">
+    <para>All done now</para>
+  </chapter>
+</book>
