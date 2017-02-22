@@ -4,4 +4,4 @@ Graph transduction.
 
 Clojure transducers for processing graphs.
 
-See [blog article](http://blog.juxt.pro/posts/xpath-in-transducers.html).
+See [blog article](https://juxt.pro/blog/posts/xpath-in-transducers.html).
